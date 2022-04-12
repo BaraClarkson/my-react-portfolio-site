@@ -87,10 +87,10 @@ const Navbar = () => {
         </Left>
         <Right>
           <MenuItem to='/Home'>Home</MenuItem>
-          <MenuItem to='/'>About</MenuItem>
-          <MenuItem to='/'>Projects</MenuItem>
-          <MenuItem to='/'>Contact</MenuItem>
-          <MenuItem to='/'>Services</MenuItem>
+          <MenuItem to='/Home'>About</MenuItem>
+          <MenuItem to='/Home'>Projects</MenuItem>
+          <MenuItem to='/Home'>Contact</MenuItem>
+          <MenuItem to='/Home'>Services</MenuItem>
 
         </Right>
       </Wrapper>
