@@ -12,17 +12,6 @@ const Container = styled.div`
   }
 `
 
-const Image = styled.img` 
-    height: 100%;
-    width: 100%;
-    border-radius: 50%;
-     @media only screen and (max-width: 360px){
-    width: 70%;
-    margin: 0 auto;
-    padding: 0;
-  }
-    
-`
 const SubContainer = styled.div` 
     margin: 0 100px;
     
@@ -42,6 +31,7 @@ const InnerContainer = styled.div`
     width: 80%;
     margin: 0 auto;
     display: flex;
+    flex-wrap: wrap;
     @media only screen and (max-width: 360px){
     display: flex;
     flex-direction: column;
@@ -97,8 +87,10 @@ const DownloadLink = styled.a`
 `
 
 const ImageContainer = styled.div` 
+    margin-top: 3rem;
     flex: 1;
     height: 100%;
+    min-width: 200px;
      @media only screen and (max-width: 360px){
     width: 360px;
     margin: 7% auto;
@@ -108,6 +100,17 @@ const ImageContainer = styled.div`
     width: 90%;
     margin-top: 6%;
   }
+`
+const Image = styled.img` 
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+     @media only screen and (max-width: 360px){
+    width: 70%;
+    margin: 0 auto;
+    padding: 0;
+  }
+    
 `
 
 
