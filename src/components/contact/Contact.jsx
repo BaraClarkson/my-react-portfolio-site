@@ -26,13 +26,13 @@ const Contact = () => {
                 <h1 className='c-title'>Lets discuss your project</h1>
                 <div className='c-info'>
                     <div className='c-info-item'>
-                        <Phone/>+1 1234 567 78
+                        <Phone/>08157422503
                     </div>
                     <div className='c-info-item'>
                         <Email/>omunaboclarkson@gmail.com
                     </div>
                     <div className='c-info-item'>
-                        <Home/>245 King Street, Touterie Victoria 8520 Australia
+                        <Home/>42b Housing Estate, Rumueme Port-Harcourt
                     </div>
                 </div>
             </div>

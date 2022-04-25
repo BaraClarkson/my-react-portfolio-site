@@ -14,25 +14,15 @@ const About = () => {
         <div className='a-right'>
             <h1 className='a-title'>About Me</h1>
             <p className='a-sub'>
-            Its a long established fact that a reader will be 
+            Its a long established fact that a reader will be distracted by the readable content
             </p>
             <p className='a-desc'>
-                Nearest-neighbor instance-based learning is simple and often works very
-                well. In the method described previously each attribute has exactly the same
-                influence on the decision, just as it does in the Naïve Bayes method. Another
-                problem is that the database can easily become corrupted by noisy exemplars.
-                One solution is to adopt the k-nearest-neighbor strategy, where some fixed
+                I am a web developer who is passionated in programming and solving
+                 complex alogrithm in to a simple solution and turns your design 
+                 ideas into a live website to help your business grow faster using 
+                 modern technologies.
             </p>
-            <div className='a-award'>
-                <img src={Me} alt='' className='a-award-img'/>
-                <div className='a-award-texts'>
-                    <h4 className='a-award-title'>International Design</h4>
-                    <p className='a-award-desc'>Well. In the method described previously each attribute has exactly the same
-                    influence on the decision, just as it does in the Naïve Bayes method. Another
-                    problem is that the database</p>
-                
-                </div>  
-            </div>
+            
         </div>
     </div>
   )

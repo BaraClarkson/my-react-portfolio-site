@@ -39,9 +39,10 @@
 }
 .a-title{
     font-weight: 400;
+    font-size: 3rem;
 }
 .a-sub{
-    margin: 20px 0px;   
+    margin: 20px 0px;
 }
 .a-desc{
     font-weight: 300;
@@ -60,6 +61,11 @@
     color: #555;
     margin-bottom: 10px;
 }
+@media screen and (max-width: 680px){
+  .a-card img{
+      width: 100;
+  }  
+}
 @media screen and (max-width: 480px){
     .a{
         flex-direction: column;
@@ -70,7 +76,7 @@
         width: 100%;
     }
     .a-card{
-        height: 30vh;
+        height: 50vh;
     }
     .a-card.bg, .a-award{
         display: none;
