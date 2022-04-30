@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio-site/static/css/main.9556ee9e.css",
-    "main.js": "/my-react-portfolio-site/static/js/main.ecc56607.js",
-    "static/media/Tonte.jpg": "/my-react-portfolio-site/static/media/Tonte.80bea82568b7b4aedab9.jpg",
-    "static/media/babel.jpg": "/my-react-portfolio-site/static/media/babel.76b1dfdf23ba2b7e1400.jpg",
+    "main.css": "/my-react-portfolio-site/static/css/main.2f570741.css",
+    "main.js": "/my-react-portfolio-site/static/js/main.10c24794.js",
+    "static/media/girl.png": "/my-react-portfolio-site/static/media/girl.2c0dd9fa0ec77bafc3d9.png",
+    "static/media/dog.png": "/my-react-portfolio-site/static/media/dog.3a90894cbe489daef47e.png",
+    "static/media/randomsite.jpeg": "/my-react-portfolio-site/static/media/randomsite.80314ddb86be50605e63.jpeg",
+    "static/media/nairaland.jpeg": "/my-react-portfolio-site/static/media/nairaland.25670bd81a5014c47d8d.jpeg",
+    "static/media/parrotbox.jpeg": "/my-react-portfolio-site/static/media/parrotbox.543b207cb2a527e6b556.jpeg",
+    "static/media/ecommerce.jpeg": "/my-react-portfolio-site/static/media/ecommerce.243c84c2e4d107d934de.jpeg",
+    "static/media/banking.jpeg": "/my-react-portfolio-site/static/media/banking.fd959af782281389ad80.jpeg",
+    "static/media/portfolio.jpeg": "/my-react-portfolio-site/static/media/portfolio.ff659d99b571e2bad63a.jpeg",
     "index.html": "/my-react-portfolio-site/index.html",
-    "main.9556ee9e.css.map": "/my-react-portfolio-site/static/css/main.9556ee9e.css.map",
-    "main.ecc56607.js.map": "/my-react-portfolio-site/static/js/main.ecc56607.js.map"
+    "main.2f570741.css.map": "/my-react-portfolio-site/static/css/main.2f570741.css.map",
+    "main.10c24794.js.map": "/my-react-portfolio-site/static/js/main.10c24794.js.map"
   },
   "entrypoints": [
-    "static/css/main.9556ee9e.css",
-    "static/js/main.ecc56607.js"
+    "static/css/main.2f570741.css",
+    "static/js/main.10c24794.js"
   ]
 }
